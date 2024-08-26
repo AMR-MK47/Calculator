@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimaryDark" tools:ignore="MissingDefaultResource">#000000</color>
+    <color name="ResultTextDark" tools:ignore="MissingDefaultResource">#000000</color>
+    <color name="ResultDark" tools:ignore="MissingDefaultResource">#FFFFFF</color>
+    <color name="colorPrimaryVariantDark" tools:ignore="MissingDefaultResource">#1565C0</color>
+    <color name="colorOnPrimaryDark" tools:ignore="MissingDefaultResource">#FFFFFF</color>
+    <color name="colorSecondaryDark" tools:ignore="MissingDefaultResource">#FF4081</color>
+    <color name="colorOnSecondaryDark" tools:ignore="MissingDefaultResource">#000000</color>
+    <color name="colorBackgroundDark" tools:ignore="MissingDefaultResource">#121212</color>
+    <color name="colorOnBackgroundDark" tools:ignore="MissingDefaultResource">#E0E0E0</color>
+    <color name="colorSurfaceDark" tools:ignore="MissingDefaultResource">#1E1E1E</color>
+    <color name="colorOnSurfaceDark" tools:ignore="MissingDefaultResource">#FFFFFF</color>
+</resources>
